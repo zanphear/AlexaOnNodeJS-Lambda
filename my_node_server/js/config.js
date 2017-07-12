@@ -9,7 +9,7 @@ var config = {
     plextvclientmachineid: "<special machine id of the device you want to play to",
 
     sony : {
-    	ip: "<bravia TV IP. needs to be static",	
+    	ip: "<bravia TV IP. needs to be static!",
     	port : '80',
     },
 
